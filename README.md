@@ -57,5 +57,5 @@ https://www.github.com/rgadewar
 
 ## Repository
 
-- [Project Repo](https://github.com/rgadewar/challenge10)
+- [Project Repo](https://github.com/rgadewar/CLI-SVG-Logo-Generator)
 
